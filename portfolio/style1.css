@@ -1,0 +1,435 @@
+/* Group 1 */
+.group {
+    position: absolute; 
+    top: 0px; 
+    left: 0px; 
+    width: 1440px; 
+    height: 3728px; 
+  }
+/* Container 13 */
+/* Container 13 */
+.container1 {
+  position: absolute; 
+  top: 166px; 
+  left: 0px; 
+  width: 1436px; 
+  height: 1226px; 
+  background: #FFFFFFFF; /* white */
+  border-radius: 0px; 
+}
+  /* Sahithi Sadineni */
+  .headtext1 {
+    position: absolute; 
+    top: 8px; 
+    left: 128px; 
+    font-family: Sarabun; /* Heading */
+    font-size: 30px; 
+    font-weight: 700; 
+    line-height: 46px; 
+    color: #171A1FFF; /* neutral-900 */
+  }
+/* Header Menu 2 */
+.header-menu {
+    position: absolute; 
+    top: 19px; 
+    left: 1011px; 
+    width: 293px; 
+    height: 24px; 
+    display: flex; 
+    align-items: center; 
+    font-family: Open Sans; /* Body */
+    font-size: 14px; 
+    font-weight: 400; 
+    line-height: 22px; 
+    opacity: 1; 
+  }
+  /* Header Menu 2 - Item */
+  .header-menu .header-menu-item {
+    padding: 1px 24px; 
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    color: #424955FF; /* neutral-650 */
+    background: rgb(255, 255, 255); /* transparent */
+    border-radius: 4px; /* border-m */
+    cursor: pointer; 
+    white-space: nowrap; 
+    text-decoration: none;
+    font-size: larger;
+  }
+  /* Header Menu 2 - Selected item */
+  .header-menu .header-menu-item.selected {
+    position: relative; 
+    font-weight: 700; 
+    color: #E34D73FF; /* primary-500 */
+    background: #000000FF; /* transparent */
+  }
+  /* Header Menu 2 - Selected item */
+  .header-menu .header-menu-item.selected:hover:active {
+    color: #E34D73FF; /* primary-500 */
+    background: #000000FF; /* transparent */
+  }
+  /* Container 14 */
+.container11 {
+    position: absolute; 
+    top: 0px; 
+    left: 4px; 
+    width: 1432px; 
+    height: 62px; 
+    background: #FFFFFFFF; /* white */
+    border-radius: 0px; 
+  }
+  .bodytext {
+    position: absolute; 
+    top: 322px; 
+    left: 132px; 
+    width: 502px; 
+    font-family: Sarabun; /* Heading */
+    font-size: 52px; 
+    font-weight: 700; 
+    line-height: 74px; 
+    color: #323842FF; /* neutral-700 */
+  }
+  .bodysmalltext {
+    position: absolute; 
+    top: 682px; 
+    left: 132px; 
+    width: 502px; 
+    font-family: Sarabun; /* Heading */
+    font-size: 16px; 
+    font-weight: 400; 
+    line-height: 26px; 
+    color: #323842FF; /* neutral-700 */
+  }
+  /* Image 13 */
+.image {
+    position: absolute; 
+    top: 98px; 
+    left: 826px; 
+    width: 482px; 
+    height: 643px; 
+    border-radius: 0px 0px 300px 300px; 
+  }
+/* Container 22 */
+/* Container 22 */
+.container12 {
+  position: absolute; 
+  top: 1152px; 
+  left: 0px; 
+  width: 1465px; 
+  height: 1397px; 
+  background: #FFFFFFFF; /* white */
+  border-radius: 4px; /* border-m */
+}
+  /* Container 24 */
+.container121 {
+    position: absolute; 
+    top: 36px; 
+    left: 128px; 
+    width: 1176px; 
+    height: 407px; 
+    background: #F6FBF0FF; /* secondary-100 */
+    border-radius: 8px; /* border-xl */
+  }
+  .insidetext {
+    position: absolute; 
+    top: 90px; 
+    left: 48px; 
+    font-family: Sarabun; /* Heading */
+    font-size: 32px; 
+    font-weight: 700; 
+    line-height: 48px; 
+    color: #323842FF; /* neutral-700 */
+  }
+  /* Image 23 */
+.IMAGE121 {
+  position: absolute; 
+  top: 58px; 
+  left: 588px; 
+  width: 398px; 
+  height: 263px; 
+  border-radius: 4px; /* border-m */
+}
+/* Container 23 */
+.CONTAINER122 {
+  position: absolute; 
+  top: 507px; 
+  left: 128px; 
+  width: 1176px; 
+  height: 376px; 
+  background: #FDF2F4FF; /* primary-100 */
+  border-radius: 8px; /* border-xl */
+}
+/* Image 24 */
+.IMAGE1221 {
+  position: absolute; 
+  top: 34px; 
+  left: 8px; 
+  width: 360px; 
+  height: 307px; 
+  border-radius: 4px; /* border-m */
+}
+/* Image 54 */
+.IMAGE1222 {
+  position: absolute; 
+  top: 39px; 
+  left: 408px; 
+  width: 360px; 
+  height: 307px; 
+  border-radius: 4px; /* border-m */
+}
+/* Image 55 */
+.IMAGE1223 {
+  position: absolute; 
+  top: 39px; 
+  left: 806px; 
+  width: 360px; 
+  height: 307px; 
+  border-radius: 4px; /* border-m */
+} 
+/* Container 20 */
+/* Container 20 */
+.CONTAINER13 {
+  position: absolute; 
+  top: 2673px; 
+  left: -4px; 
+  width: 1440px; 
+  height: 368px; 
+  background: #FFFFFFFF; /* white */
+  border-radius: 4px; /* border-m */
+}
+.TEXT13 {
+  position: absolute; 
+  top: 56px; 
+  left: 132px; 
+  font-family: Sarabun; /* Heading */
+  font-size: 52px; 
+  font-weight: 700; 
+  line-height: 74px; 
+  color: #323842FF; /* neutral-700 */
+}
+.TEXT131 {
+  position: absolute; 
+  top: 166px; 
+  left: 132px; 
+  font-family: Sarabun; /* Heading */
+  font-size: 24px; 
+  font-weight: 400; 
+  line-height: 36px; 
+  color: #323842FF; /* neutral-700 */
+}
+.TEXT132 {
+  position: absolute; 
+  top: 166px; 
+  left: 536px; 
+  font-family: Sarabun; /* Heading */
+  font-size: 24px; 
+  font-weight: 400; 
+  line-height: 36px; 
+  color: #323842FF; /* neutral-700 */
+}
+.TEXT133 {
+  position: absolute; 
+  top: 166px; 
+  left: 940px; 
+  font-family: Sarabun; /* Heading */
+  font-size: 24px; 
+  font-weight: 400; 
+  line-height: 36px; 
+  color: #323842FF; /* neutral-700 */
+}
+.TEXT134 {
+  position: absolute; 
+  top: 255px; 
+  left: 132px; 
+  font-family: Sarabun; /* Heading */
+  font-size: 24px; 
+  font-weight: 400; 
+  line-height: 36px; 
+  color: #323842FF; /* neutral-700 */
+}
+.TEXT135 {
+  position: absolute; 
+  top: 255px; 
+  left: 536px; 
+  font-family: Sarabun; /* Heading */
+  font-size: 24px; 
+  font-weight: 400; 
+  line-height: 36px; 
+  color: #323842FF; /* neutral-700 */
+}
+.TEXT136 {
+  position: absolute; 
+  top: 255px; 
+  left: 940px; 
+  font-family: Sarabun; /* Heading */
+  font-size: 24px; 
+  font-weight: 400; 
+  line-height: 36px; 
+  color: #323842FF; /* neutral-700 */
+}
+/* Line 9 */
+.LINE1 {
+  position: absolute; 
+  top: 218px; 
+  left: 132px; 
+  width: 368px; 
+  height: 0px; 
+  border-width: 1px; 
+  border-color: #BCC1CAFF; /* neutral-400 */
+  border-style: solid; 
+  transform: rotate(0deg); 
+}
+/* Line 7 */
+.LINE2 {
+  position: absolute; 
+  top: 218px; 
+  left: 536px; 
+  width: 368px; 
+  height: 0px; 
+  border-width: 1px; 
+  border-color: #BCC1CAFF; /* neutral-400 */
+  border-style: solid; 
+  transform: rotate(0deg); 
+}
+/* Line 11 */
+.LINE3 {
+  position: absolute; 
+  top: 218px; 
+  left: 940px; 
+  width: 368px; 
+  height: 0px; 
+  border-width: 1px; 
+  border-color: #BCC1CAFF; /* neutral-400 */
+  border-style: solid; 
+  transform: rotate(0deg); 
+}
+/* Line 10 */
+.LINE4 {
+  position: absolute; 
+  top: 307px; 
+  left: 132px; 
+  width: 368px; 
+  height: 0px; 
+  border-width: 1px; 
+  border-color: #BCC1CAFF; /* neutral-400 */
+  border-style: solid; 
+  transform: rotate(0deg); 
+}
+/* Line 8 */
+.LINE5 {
+  position: absolute; 
+  top: 307px; 
+  left: 536px; 
+  width: 368px; 
+  height: 0px; 
+  border-width: 1px; 
+  border-color: #BCC1CAFF; /* neutral-400 */
+  border-style: solid; 
+  transform: rotate(0deg); 
+}
+/* Line 12 */
+.LINE6 {
+  position: absolute; 
+  top: 311px; 
+  left: 940px; 
+  width: 368px; 
+  height: 0px; 
+  border-width: 1px; 
+  border-color: #BCC1CAFF; /* neutral-400 */
+  border-style: solid; 
+  transform: rotate(0deg); 
+}
+/* Container 55 */
+.CONTAINER123 {
+  position: absolute; 
+  top: 947px; 
+  left: 128px; 
+  width: 1176px; 
+  height: 376px; 
+  background: #FDF2F4FF; /* primary-100 */
+  border-radius: 8px; /* border-xl */
+}
+/* Container 15 */
+.CONTAINER14 {
+  position: absolute; 
+  top: 3104px; 
+  left: 0px; 
+  width: 1492px; 
+  height: 624px; 
+  background: #1D2128FF; /* neutral-800 */
+  border-radius: 0px; 
+}
+.INTEXT {
+  position: absolute; 
+  top: 164px; 
+  left: 130px; 
+  width: 466px; 
+  height: 148px; 
+  font-family: Sarabun; /* Heading */
+  font-size: 52px; 
+  font-weight: 700; 
+  line-height: 74px; 
+  color: #FFFFFFFF; /* white */
+}
+/* Logo instagram 1 */
+.icon1 {
+  position: absolute; 
+  top: 122px; 
+  left: 714px; 
+  width: 64px; 
+  height: 64px; 
+  fill: #FFFFFFFF; /* white */
+}
+.intext1 {
+  position: absolute; 
+  top: 65px; 
+  left: 790px; 
+  width: 495px; 
+  height: 74px; 
+  font-family: Sarabun; /* Heading */
+  font-size: 52px; 
+  font-weight: 700; 
+  line-height: 74px; 
+  color: #FFFFFFFF; /* white */
+}
+/* LinkedIn logo 2 */
+.icon2 {
+  position: absolute; 
+  top: 238px; 
+  left: 720px; 
+  width: 58px; 
+  height: 58px; 
+  fill: #FFFFFFFF; /* white */
+}
+.intext2 {
+  position: absolute; 
+  top: 175px; 
+  left: 800px; 
+  width: 495px; 
+  font-family: Sarabun; /* Heading */
+  font-size: 52px; 
+  font-weight: 700; 
+  line-height: 74px; 
+  color: #FFFFFFFF; /* white */
+}
+/* LinkedIn logo 7 */
+.icon3 {
+  position: absolute; 
+  top: 348px; 
+  left: 720px; 
+  width: 58px; 
+  height: 58px; 
+  fill: #FFFFFFFF; /* white */
+}
+.intext3 {
+  position: absolute; 
+  top: 290px; 
+  left: 799px; 
+  width: 495px; 
+  font-family: Sarabun; /* Heading */
+  font-size: 52px; 
+  font-weight: 700; 
+  line-height: 74px; 
+  color: #FFFFFFFF; /* white */
+}

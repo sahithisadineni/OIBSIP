@@ -1,0 +1,75 @@
+.container12 {
+  position: absolute; 
+  top: px; 
+  left: 0px; 
+  width: 1465px; 
+  height: 1397px; 
+  background: #FFFFFFFF; /* white */
+  border-radius: 4px; /* border-m */
+}
+  /* Container 24 */
+.container121 {
+    position: absolute; 
+    top: 36px; 
+    left: 128px; 
+    width: 1176px; 
+    height: 407px; 
+    background: #F6FBF0FF; /* secondary-100 */
+    border-radius: 8px; /* border-xl */
+  }
+  .insidetext {
+    position: absolute; 
+    top: 90px; 
+    left: 48px; 
+    font-family: Sarabun; /* Heading */
+    font-size: 32px; 
+    font-weight: 700; 
+    line-height: 48px; 
+    color: #323842FF; /* neutral-700 */
+  }
+  /* Image 23 */
+.IMAGE121 {
+  position: absolute; 
+  top: 58px; 
+  left: 588px; 
+  width: 398px; 
+  height: 263px; 
+  border-radius: 4px; /* border-m */
+}
+/* Container 23 */
+.CONTAINER122 {
+  position: absolute; 
+  top: 507px; 
+  left: 128px; 
+  width: 1176px; 
+  height: 376px; 
+  background: #FDF2F4FF; /* primary-100 */
+  border-radius: 8px; /* border-xl */
+}
+/* Image 24 */
+.IMAGE1221 {
+  position: absolute; 
+  top: 34px; 
+  left: 8px; 
+  width: 360px; 
+  height: 307px; 
+  border-radius: 4px; /* border-m */
+}
+/* Image 54 */
+.IMAGE1222 {
+  position: absolute; 
+  top: 39px; 
+  left: 408px; 
+  width: 360px; 
+  height: 307px; 
+  border-radius: 4px; /* border-m */
+}
+/* Image 55 */
+.IMAGE1223 {
+  position: absolute; 
+  top: 39px; 
+  left: 806px; 
+  width: 360px; 
+  height: 307px; 
+  border-radius: 4px; /* border-m */
+} 
